@@ -1,26 +1,11 @@
 {
-  "name": "vis",
-  "version": "4.20.1",
+  "name": "Ngg-vis",
+  "version": "1.0.0",
   "description": "A dynamic, browser-based visualization library.",
-  "homepage": "http://visjs.org/",
-  "license": "(Apache-2.0 OR MIT)",
   "repository": {
     "type": "git",
-    "url": "git://github.com/almende/vis.git"
+    "url": "git://github.com/vikasraj789/vis.git"
   },
-  "keywords": [
-    "vis",
-    "visualization",
-    "web based",
-    "browser based",
-    "javascript",
-    "chart",
-    "linechart",
-    "timeline",
-    "graph",
-    "network",
-    "browser"
-  ],
   "main": "./dist/vis.js",
   "scripts": {
     "test": "mocha --compilers js:babel-core/register",
